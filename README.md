@@ -22,7 +22,7 @@ please refer to https://github.com/FastUMIData/FastUMI_Hardware_SDK, install ros
 git clone git@github.com:FastUMIData/FastUMI_Data_Platform_Web.git
 ```
 ### 3. download backend binary files
-We have a list of recommended computer configurations available at: https://www.fastumi.com/pro/#recommendConfiguration.  
+We have a list of recommended computer configurations available at: https://lumosumi.lumosbot.tech/pro/#recommendConfiguration.  
 Due to the file size limit for uploads on GitHub, please download the files from the links below first:  
 https://pan.baidu.com/s/1n8mThY_YqgQruwUB-jnPGw?pwd=w2t2
 
@@ -35,4 +35,4 @@ bash deploy.sh
 onced deployed, please visit http://localhost:8000 address in browser, use user/user123 to login.
 
 ## 🔗 Contact us
-please visit our website https://www.fastumi.com/pro
+please visit our website https://lumosumi.lumosbot.tech/pro
